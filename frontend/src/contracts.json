@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xAbC1234567890DefABC1234567890defABC12345",
+    "accommodationName": "Apartman Beograd",
+    "pricePerNight": "0.05"
+  },
+  {
+    "address": "0xDeF9876543210AbcDEF9876543210abcDEF98765",
+    "accommodationName": "Kuća na moru",
+    "pricePerNight": "0.1"
+  },
+  {
+    "address": "0x1234567890abcdef1234567890ABCDEF12345678",
+    "accommodationName": "Planinska koliba",
+    "pricePerNight": "0.03"
+  }
+]
