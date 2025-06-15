@@ -98,7 +98,7 @@
 
 <script>
 import { ethers } from "ethers";
-import BookingContractArtifact from "../../../../artifacts/contracts/booking.sol/Booking_contract.json";
+import BookingContractArtifact from "../../../artifacts/contracts/booking.sol/Booking_contract.json";
 
 export default {
   data() {
